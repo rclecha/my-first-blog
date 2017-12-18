@@ -25,7 +25,7 @@ SECRET_KEY = 't0(a=x0+&y0(b0u0jwol57rc459c@efd#28m4c%m(g!_aeq1)%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'rclecha.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'rclecha.pythonanywhere.com']
 
 
 # Application definition
